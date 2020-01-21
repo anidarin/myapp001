@@ -1,5 +1,6 @@
 /**
  * @format
+ * Marut Saenmom
  */
 
 import {AppRegistry} from 'react-native';
